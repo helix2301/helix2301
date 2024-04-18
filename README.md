@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Brandon</h1>
-<h3 align="center">A Geek from America.</h3>
+<h3 align="center">My name is Brandon but I am known online to friends and helix or helix2301. I enjoy giving away great software for free. All my software is open source all I ask for is your support either by buying me a coffee or subscribing. 
+
+When I am not working you will find me spending all the time coding, gaming, and most importantly spending time with my wife and two kids.
+
+My projects over the last year have been social media-based. I helped with Mastodon for a while then I worked on an open-source Facebook alternative.
+
+My most recent project has been an online radio station called Helix Rock Radio which encumbered writing a Chrome extension, iOS app, Android App, and Roku App. 
+
+While this continues to grow I have another Python project in the works.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
